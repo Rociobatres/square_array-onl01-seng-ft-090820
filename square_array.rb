@@ -2,7 +2,7 @@ numbers = [1,2,3]
 
 def square_array(numbers)
   new_array = [] 
-  numbers.each { |digit| 
+  numbers.each { |digit| new_array << 
   new_number << digit
   end   
 end
