@@ -1,6 +1,6 @@
 numbers = [1,2,3]
 
-def square_array(numbers)
+def square_array(array)
   numbers.each do |digit|
     "digit ** 2"
     new_number = []
